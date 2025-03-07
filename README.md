@@ -1,6 +1,6 @@
 - Hello hello, I'm curlycurls. Im also known as Seraph but if you want you can just call me Zach =)
 - Pronouns: he/him
-- Degree: 2nd year computer science and computer engineering
+- Degree: 3rd year computer science and computer engineering
 - University: UCT
 - Other Interests: Art
 
